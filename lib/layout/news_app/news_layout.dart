@@ -25,7 +25,8 @@ class NewsLayout extends StatelessWidget {
                   Image(image: AssetImage('assets/image/logo_a_01.png'),fit: BoxFit.cover,),
                   SizedBox(width: 10.0,),
                   Text(
-                    'تطبيق الاخبار *  كينج مريوط ',
+                    // 'تطبيق الاخبار *  كينج مريوط ',
+                    'تطبيق      ',
                     style: TextStyle(
                       fontSize: 8,
                       fontFamily: 'Cairo',
